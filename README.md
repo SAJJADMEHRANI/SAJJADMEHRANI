@@ -4,38 +4,23 @@
 <a href="https://linkedin.com/in/sajjadmehrani"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"/> What I build
-
-I build full-stack systems from idea to deployment.
-
+I build full-stack systems from idea to deployment.<br/>
 Web platforms &amp; B2B systems &amp; AI tools &amp; Scalable backend architectures
-
 <br/>
-
 ### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="18"/> Engineering mindset
-
-I don't focus on features -- I focus on systems.
-
+I don't focus on features -- I focus on systems.<br/>
 A product is the interaction between users, data, backend logic, and long-term scalability.
-
 <br/>
-
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18"/> Current focus
-
-- Building real-world platforms (CAIRAN, Hooshews)
-- Backend architecture and system design
-- DevOps fundamentals (Docker, Linux, deployment)
-- AI-assisted development workflows
-
-<br/>
-
+Building real-world platforms (CAIRAN, Hooshews)<br/>
+Backend architecture and system design<br/>
+DevOps fundamentals (Docker, Linux, deployment)<br/>
+AI-assisted development workflows<br/>
 ### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="18"/> Tech Stack
-
 **Languages**
-
 <img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-
 **Backend**
 
 <img src="https://img.shields.io/badge/Laravel-0d0d0d?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
