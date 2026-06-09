@@ -6,7 +6,6 @@ Sometimes I write clean code.
 Sometimes I break things.  
 Mostly I fix them.
 
----
 
 ## 🚧 What I build
 
@@ -15,7 +14,6 @@ Mostly I fix them.
 - AI-powered tools and integrations  
 - End-to-end product systems (idea → deployment)
 
----
 
 ## 🧠 Current focus
 
@@ -24,7 +22,6 @@ Mostly I fix them.
 - Exploring DevOps and deployment workflows
 - AI-assisted development tools and workflows
 
----
 
 ## 🛠 Skills
 
@@ -40,7 +37,6 @@ Git · Linux · Docker · Deployment Basics
 ### AI
 AI Integration · Workflow Automation · LLM-based Tools
 
----
 
 ## 🚀 Projects
 
@@ -56,7 +52,6 @@ AI tools and web platform integration system
 ### Darvazeh Melal
 B2B marketplace connecting manufacturers and buyers
 
----
 
 ## 😄 Random stuff
 
@@ -65,19 +60,10 @@ B2B marketplace connecting manufacturers and buyers
 - I’ve restarted more projects than I finished  
 - My code works… until it doesn’t  
 
----
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAJJADMEHRANI&show_icons=true&hide_title=true)
-
----
-
-## 🔥 Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SAJJADMEHRANI)
-
----
 
 ## 📫 Connect with me
 
