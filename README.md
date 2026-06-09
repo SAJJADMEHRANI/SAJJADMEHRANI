@@ -1,99 +1,115 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/SAJJADMEHRANI/SAJJADMEHRANI/main/header (1).svg" width="100%" />
 
-<img src="https://raw.githubusercontent.com/SAJJADMEHRANI/SAJJADMEHRANI/main/header.svg" width="100%" />
+<a href="mailto:sajjd.mhr@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://linkedin.com/in/sajjadmehrani"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 
-<a href="mailto:sajjd.mhr@gmail.com">Email</a> ·
-<a href="https://linkedin.com/in/sajjadmehrani">LinkedIn</a> ·
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=13&amp;pause=1200&amp;color=666666&amp;width=480&amp;lines=I+think+in+systems%2C+not+pages.;From+idea+to+architecture+to+deployment.;Still+googling+nginx+configs." />
 
-</div>
+<br/>
 
-## What I build
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"/> What I build
 
-I build complete digital systems from idea to deployment.
+I build full-stack systems from idea to deployment.
 
-- Web platforms  
-- B2B systems  
-- AI-powered tools  
-- End-to-end product architecture  
+Web platforms &amp;nbsp;|&amp;nbsp; B2B systems &amp;nbsp;|&amp;nbsp; AI tools &amp;nbsp;|&amp;nbsp; Scalable backend architectures
 
-## Engineering mindset
+<br/>
 
-I focus on systems, not features.
+### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="18"/> Engineering mindset
+
+I don't focus on features -- I focus on systems.
 
 A product is the interaction between users, data, backend logic, and long-term scalability.
 
-## Current focus
+<br/>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18"/> Current focus
 
 - Building real-world platforms (CAIRAN, Hooshews)
-- System design and backend architecture
-- DevOps fundamentals (Docker, Linux, Nginx)
+- Backend architecture and system design
+- DevOps fundamentals (Docker, Linux, deployment)
 - AI-assisted development workflows
 
-## Tech Stack
+<br/>
 
-### Core Engineering
-PHP · JavaScript · Python
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="18"/> Tech Stack
 
-### Backend
-Laravel · REST APIs · MVC Architecture
+**Languages**
 
-### Frontend
-HTML · CSS · Bootstrap · Tailwind · React
+<img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
 
-### Databases
-MySQL · MongoDB
+**Backend**
 
-### DevOps & Systems
-Linux · Docker · Nginx
+<img src="https://img.shields.io/badge/Laravel-0d0d0d?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-0d0d0d?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
 
-### Tools
-Git · GitHub · VS Code · Postman
+**Frontend**
 
-## Projects
+<img src="https://img.shields.io/badge/HTML-0d0d0d?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-0d0d0d?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
 
-**CAIRAN**  
-B2B service directory platform for Iranian businesses in Canada  
-Full system design, backend architecture, and platform development  
+**Databases**
 
-**Hooshews**  
-AI learning platform for developers  
-Focused on turning AI tools into practical engineering workflows  
+<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
 
-**AIwal**  
-AI tool integration platform  
-Modular system connecting AI services with web applications  
+**DevOps**
 
-**Darvazeh Melal**  
-B2B marketplace platform  
-Designed for structured product and company systems  
+<img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&amp;logo=linux&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-0d0d0d?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
 
-## GitHub Activity
+**Tools**
 
-<div align="center">
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAJJADMEHRANI&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<br/>
 
-<br/><br/>
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="18"/> Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAJJADMEHRANI&layout=compact&theme=github_dark&hide_border=true" />
+**CAIRAN** -- B2B directory for Iranian businesses in Canada
 
-<br/><br/>
+**Hooshews** -- AI learning platform for developers
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAJJADMEHRANI&theme=github-compact&hide_border=true" />
+**AIwal** -- AI integration platform for web apps
 
-</div>
+**Darvazeh Melal** -- structured B2B marketplace system
 
-## Engineering direction
+<br/>
 
-I’m moving from application development toward system-level engineering.
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="18"/> GitHub Stats
 
-- Git & collaboration workflows  
-- Linux fundamentals  
-- Docker & containerization  
-→ System design  
-→ CI/CD pipelines  
-→ Scalable architectures  
+<img src="https://github-readme-stats.vercel.app/api?username=SAJJADMEHRANI&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github&amp;icon_color=ffffff&amp;title_color=ffffff&amp;text_color=888888&amp;bg_color=0d1117" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAJJADMEHRANI&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=ffffff&amp;text_color=888888&amp;bg_color=0d1117" height="155" />
 
-- I build things faster than I document them  
-- I break things to understand them properly  
-- I prefer working systems over perfect plans  
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAJJADMEHRANI&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;color=555555&amp;line=aaaaaa&amp;point=ffffff&amp;bg_color=0d1117" width="100%" />
+
+<br/>
+
+### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="18"/> Direction
+
+```
+done  Git and Linux
+done  Docker
+  ->  System design
+  ->  CI/CD pipelines
+  ->  Scalable architectures
+```
+
+<br/>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="18"/> Human side
+
+I build fast, break things often, and learn from systems instead of theory.
+
+I prefer working systems over perfect plans.
