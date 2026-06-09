@@ -49,39 +49,50 @@ AI integration into web development workflows
 
 ### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="18"/> Tech Stack
 
-**Languages**
+**Languages**<br/>
+<span>
+<img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=white" />
+</span>
 
-<img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+**Frontend**<br/>
+<span>
+<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=white" />
+</span>
 
-**Backend**
+**Backend & CMS**<br/>
+<span>
+<img src="https://img.shields.io/badge/Laravel-0d0d0d?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-0d0d0d?style=for-the-badge&logo=wordpress&logoColor=white" />
+</span>
 
-<img src="https://img.shields.io/badge/Laravel-0d0d0d?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-0d0d0d?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
+**Databases**<br/>
+<span>
+<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-0d0d0d?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=white" />
+</span>
 
-**Frontend**
+**DevOps & Infrastructure**<br/>
+<span>
+<img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-0d0d0d?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" />
+</span>
 
-<img src="https://img.shields.io/badge/HTML-0d0d0d?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-0d0d0d?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
+**Design & UI**<br/>
+<span>
+<img src="https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-0d0d0d?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-0d0d0d?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+</span>
 
-**Databases**
-
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
-
-**DevOps**
-
-<img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&amp;logo=linux&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-0d0d0d?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
