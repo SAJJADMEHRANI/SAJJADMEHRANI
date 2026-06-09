@@ -15,7 +15,6 @@ Most of the time I fix them.
 * Play around with AI tools and integrations
 * Turn ideas into products (and sometimes regret saying yes to them)
 
----
 
 ## 🧠 Current mission
 
@@ -23,7 +22,6 @@ Most of the time I fix them.
 * Learning system design & infrastructure stuff (the “serious backend wizard” phase)
 * Trying not to over-engineer everything I touch
 
----
 
 ## 🧪 Projects I’ve built
 
@@ -46,7 +44,6 @@ A playground for ideas that sometimes become real features.
 
 A B2B marketplace connecting manufacturers and buyers.
 
----
 
 ## ☕ Fun facts
 
