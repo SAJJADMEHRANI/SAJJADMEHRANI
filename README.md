@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/SAJJADMEHRANI/SAJJADMEHRANI/main/header (1).svg" width="100%" />
 
 <a href="mailto:sajjd.mhr@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-<a href="https://linkedin.com/in/sajjadmehrani"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sajjad-mehrani-69b376223"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"/> About me
 
@@ -96,3 +96,25 @@ AI integration into web development workflows
 <img src="https://img.shields.io/badge/Adobe_Photoshop-0d0d0d?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </span>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="18"/> Connect with me
+
+<span>
+<a href="mailto:sajjd.mhr@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/sajjad-mehrani-69b376223">
+<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/MhrSajjd">
+<img src="https://img.shields.io/badge/X_(Twitter)-0d0d0d?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://github.com/SAJJADMEHRANI">
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://hooshews.com">
+<img src="https://img.shields.io/badge/Hooshews-0d0d0d?style=for-the-badge&logo=about.me&logoColor=white" />
+</a>
