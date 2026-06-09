@@ -1,61 +1,85 @@
 # Hey 👋 I'm Sajjad
 
-Software Engineer who builds web platforms, B2B systems, and AI-powered tools.
+Software Engineer & Product Builder building web platforms, AI tools, and digital products.
 
-Sometimes I write clean code.
-Sometimes I break things.
-Most of the time I fix them.
+Sometimes I write clean code.  
+Sometimes I break things.  
+Mostly I fix them.
 
 ---
 
-## 🚧 What I do
+## 🚧 What I build
 
-* Build web platforms that actually work in real life
-* Design systems for B2B products and marketplaces
-* Play around with AI tools and integrations
-* Turn ideas into products (and sometimes regret saying yes to them)
+- Web platforms and digital products  
+- B2B systems and marketplaces  
+- AI-powered tools and integrations  
+- End-to-end product systems (idea → deployment)
 
+---
 
-## 🧠 Current mission
+## 🧠 Current focus
 
-* Building and improving real-world products (CAIRAN, Hooshews, etc.)
-* Learning system design & infrastructure stuff (the “serious backend wizard” phase)
-* Trying not to over-engineer everything I touch
+- Building real-world products (CAIRAN, Hooshews)
+- Learning system design & backend architecture
+- Exploring DevOps and deployment workflows
+- AI-assisted development tools and workflows
 
+---
 
-## 🧪 Projects I’ve built
+## 🛠 Skills
+
+### Core
+Software Engineering · System Design · Product Thinking
+
+### Web Development
+Frontend Development · Backend Development · API Design
+
+### Tools
+Git · Linux · Docker · Deployment Basics
+
+### AI
+AI Integration · Workflow Automation · LLM-based Tools
+
+---
+
+## 🚀 Projects
 
 ### CAIRAN
-
-A platform for connecting services and businesses in Canada.
-Think Yellow Pages… but less boring.
+B2B service directory platform for businesses in Canada
 
 ### Hooshews
-
-An AI + dev content platform.
-Basically: “what if developers actually understood AI tools properly?”
+AI-focused developer education platform
 
 ### AIwal
-
-AI tools + web platform experiments.
-A playground for ideas that sometimes become real features.
+AI tools and web platform integration system
 
 ### Darvazeh Melal
-
-A B2B marketplace connecting manufacturers and buyers.
-
-
-## ☕ Fun facts
-
-* I enjoy building more than finishing documentation
-* I’ve restarted projects more times than I want to admit
-* I believe “it works on my machine” is a valid philosophy (sometimes)
+B2B marketplace connecting manufacturers and buyers
 
 ---
 
-## 📫 Let’s connect
+## 😄 Random stuff
 
-* LinkedIn: [your link]
-* Projects: CAIRAN / Hooshews
+- I build things faster than I document them  
+- I break things just to understand them better  
+- I’ve restarted more projects than I finished  
+- My code works… until it doesn’t  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAJJADMEHRANI)
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAJJADMEHRANI&show_icons=true&hide_title=true)
+
+---
+
+## 🔥 Contribution Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SAJJADMEHRANI)
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/sajjad-mehrani-69b376223/
+- Projects: CAIRAN / Hooshews
