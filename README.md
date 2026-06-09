@@ -3,15 +3,11 @@
 <a href="mailto:sajjd.mhr@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 <a href="https://linkedin.com/in/sajjadmehrani"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=13&amp;pause=1200&amp;color=666666&amp;width=480&amp;lines=I+think+in+systems%2C+not+pages.;From+idea+to+architecture+to+deployment.;Still+googling+nginx+configs." />
-
-<br/>
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"/> What I build
 
 I build full-stack systems from idea to deployment.
 
-Web platforms &amp;nbsp;|&amp;nbsp; B2B systems &amp;nbsp;|&amp;nbsp; AI tools &amp;nbsp;|&amp;nbsp; Scalable backend architectures
+Web platforms &amp; B2B systems &amp; AI tools &amp; Scalable backend architectures
 
 <br/>
 
