@@ -3,29 +3,49 @@
 <a href="mailto:sajjd.mhr@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 <a href="https://linkedin.com/in/sajjadmehrani"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"/> What I build
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"/> About me
 
->I build full-stack systems from idea to deployment.<br/>
-Web platforms &amp; B2B systems &amp; AI tools &amp; Scalable backend architectures
+>I’m a full-stack developer focused on building scalable systems, not just features.<br/>
+I work across backend, frontend, and infrastructure to turn ideas into deployable products.
 
-### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="18"/> Engineering mindset
+### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="18"/> What I build
 
->I don't focus on features -- I focus on systems.<br/>
-A product is the interaction between users, data, backend logic, and long-term scalability.
+>I build end-to-end systems from idea to deployment.<br/>
+Web platforms · B2B systems · AI-powered tools · Scalable backend architectures
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18"/> Current focus
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18"/> Engineering mindset
+
+>I focus on system design, reliability, and long-term scalability over isolated features.<br/>
+A product is an interaction between users, data, architecture, and execution quality.
+
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="18"/> Expertise areas
+
+>Backend development with Laravel and REST APIs<br/>
+System design and scalable architecture thinking<br/>
+DevOps fundamentals (Linux, Docker, Nginx, deployment workflows)<br/>
+Frontend development (HTML, CSS, Bootstrap, Tailwind, React)<br/>
+Database design (MySQL, MongoDB)
+
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="18"/> Research interests
+
+>AI-assisted software development workflows<br/>
+System design patterns for scalable web platforms<br/>
+DevOps automation and deployment pipelines<br/>
+Backend performance optimization and architecture design
+
+### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="18"/> Current focus
 
 >Building real-world platforms (CAIRAN, Hooshews)<br/>
-Backend architecture and system design<br/>
-DevOps fundamentals (Docker, Linux, deployment)<br/>
-AI-assisted development workflows
+System design and backend architecture improvement<br/>
+DevOps and deployment automation<br/>
+AI integration into web development workflows
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="18"/> Projects
 
->**CAIRAN** -- B2B directory for Iranian businesses in Canada<br/>
-**Hooshews** -- AI learning platform for developers<br/>
-**AIwal** -- AI integration platform for web apps<br/>
-**Darvazeh Melal** -- structured B2B marketplace system
+>**CAIRAN** — B2B directory for Iranian businesses in Canada<br/>
+**Hooshews** — AI learning platform for developers<br/>
+**AIwal** — AI integration platform for web applications<br/>
+**Darvazeh Melal** — structured B2B marketplace system
 
 ### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="18"/> Tech Stack
 
