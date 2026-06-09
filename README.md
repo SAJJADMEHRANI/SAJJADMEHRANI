@@ -20,6 +20,13 @@ Backend architecture and system design<br/>
 DevOps fundamentals (Docker, Linux, deployment)<br/>
 AI-assisted development workflows
 
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="18"/> Projects
+
+>**CAIRAN** -- B2B directory for Iranian businesses in Canada<br/>
+**Hooshews** -- AI learning platform for developers<br/>
+**AIwal** -- AI integration platform for web apps<br/>
+**Darvazeh Melal** -- structured B2B marketplace system
+
 ### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="18"/> Tech Stack
 
 **Languages**
@@ -58,14 +65,3 @@ AI-assisted development workflows
 <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
-
-<br/>
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="18"/> Projects
-
-**CAIRAN** -- B2B directory for Iranian businesses in Canada
-
-**Hooshews** -- AI learning platform for developers
-
-**AIwal** -- AI integration platform for web apps
-
-**Darvazeh Melal** -- structured B2B marketplace system
